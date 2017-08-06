@@ -1,0 +1,14 @@
+jrpThBs:J. R. P.:Gerent:G.M.DV.C.A.T:0:0
+hmqHug:H. M. Q.:Administratiu:A.T:0:0
+admGma:G. L. I.:Administrativa:A.T:0:0
+sppSLS:S. P. P.:Directora Vendes:DV.C.T:0:0
+jnbCM:J. N. B.:Comercial:C.T:0:0
+atvCM:A. T. V.:Comercial:C.T:0:0
+vglEMC:V. G. L.:Cap I+D:P.T:0:0
+obtEID:O. B. T.:Enginyer I+D:P.T:0:0
+hmgCMG:H. M. G.:Cap de magatzem:M.T:0:0
+fzgMAG:F. Z. G.:Mosso de magatzem:M.T:0:0
+tglCPP:T. G. L.:Cap de produccio:P.T:0:0
+nciOP:N. C. I.:Operari:T:0:0
+mxcOP:M. X. C.:Operari:T:0:0
+ltcMNT:L. T. C.:Manteniment:T:0:0

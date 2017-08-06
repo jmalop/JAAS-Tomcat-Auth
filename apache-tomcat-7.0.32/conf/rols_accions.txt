@@ -1,0 +1,56 @@
+compres:P:Sol.licitar compra
+compres:G:Autoritzar compra
+compres:G:Denegar compra
+compres:P.G:Modificar compra
+compres:P.G:Eliminar compra
+compres:P.A:Veure historic de compres realitzades
+compres:DV:Afegir producte
+compres:DV:Modificar producte
+compres:DV:Eliminar producte
+compres:P:Veure compres sol.licitades d'un producte
+compres:P.A:Veure total compres sol.licitades
+compres:A.M:Registrar entrada d'una compra
+compres:P:Afegir proveidor
+compres:P.A:Modificar proveidor
+compres:P:Eliminar proveidor
+compres:P.A:Consultar proveidors
+compres:P.A.M:Consultar productes
+compres:P.A.M:Consultar compres en proces
+inventari:M:Incrementar estoc producte
+inventari:M:Decrementar estoc producte
+inventari:M.P.C:Consultar estoc producte
+inventari:P.M:Consultar la ubicació d'un producte
+inventari:P.M:Registrar una incidencia amb un producte
+inventari:M.P.A:Consultar incidencies
+rrhh:A:Afegir treballador
+rrhh:A:Veure historic de nomines
+rrhh:A.T:Modificar dades treballador
+rrhh:A:Modificar la nomina
+rrhh:A:Consultar dades treballador empresa
+rrhh:T:Consultar dades propies
+rrhh:G:Autoritzar pagament nomina
+rrhh:A:Consultar nomines
+rrhh:A:Contractes
+rrhh:T:Consultar la propia nomina
+rrhh:A:Crear nova nomina
+rrhh:A:Donar de baixa un treballador
+rrhh:A:Eliminar nomina
+rrhh:T:Veure historic de nomines propies
+ventes:C:Crear factura
+ventes:C.A:Modificar factura
+ventes:C.A:Eliminar factura
+ventes:A:Registrar factura (cobrada)
+ventes:A:Impagament de factura
+ventes:C:Afegir client
+ventes:C.A.CL:Modificar dades client
+ventes:C.A:Consultar factures
+ventes:C.A:Consultar pressupostos
+ventes:C.A:Eliminar pressupost
+ventes:C.A:Modificar pressupost
+ventes:C.CL:Acceptar pressupost
+ventes:CL:Sol.licitar pressupost
+ventes:C:Crear pressupost
+ventes:C.A:Eliminar client
+ventes:C.CL:Consultar pressupost propi
+ventes:C.A:Consultar impagaments
+ventes:CL:Sol.licitar baixa
