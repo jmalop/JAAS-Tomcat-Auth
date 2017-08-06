@@ -60,3 +60,4 @@ permitidas al usuario según los roles asignados
 permitidas al usuario según los roles asignados
 -------- WEB-INF /
 ---------- web.xml Contiene la configuración de la autorización de acceso a la aplicación
+
